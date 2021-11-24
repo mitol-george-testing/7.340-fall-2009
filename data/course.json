@@ -1,0 +1,39 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "af6a19fc-f8d9-89a9-53d4-4a6267a74971"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Learning and Memory: Activity-Controlled Gene Expression in the Nervous System",
+  "course_description": "The mammalian brain easily outperforms any computer. It adapts and changes constantly. Most importantly, the brain enables us to continuously learn and remember. What are the molecular mechanisms that lead to learning and memory? What are the cellular roles that activity-regulated gene products play to implement changes in the brain?\n\nHow do nerve cells, their connections (synapses), and brain circuits change over time to store information? We will discuss the molecular mechanisms of neuronal plasticity at the synaptic, cellular and circuit levels, especially\n\n*   synapse formation,\n*   synaptic growth and stabilization,\n*   synaptic transmission,\n*   axonal and dendritic outgrowth, and\n*   circuit formation\n\nWe will learn about the roles of some activity-regulated genes as well as the tools and techniques employed in modern neuroscience. Our goal will be to understand molecular mechanisms the brain employs to accomplish learning and memory.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.340",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
